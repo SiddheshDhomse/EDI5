@@ -22,8 +22,7 @@ export const Header = () => {
                         alt="Mascot"
                     />
                     <h1 className="text-2xl font-bold text-green-600 tracking-wide">
-                        EDAI NAME
-                    </h1>
+MOMO                    </h1>
                 </div>
                 <ClerkLoading>
                     <Loader className="h-5 w-5 text-muted-foreground animated-spin" />
