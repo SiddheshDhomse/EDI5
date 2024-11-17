@@ -29,8 +29,7 @@ export const Sidebar = ({ className }: Props) => {
                         alt="Mascot"
                     />
                     <h1 className="text-2xl font-bold text-green-600 tracking-wide">
-                        EDAI NAME
-                    </h1>
+MOMO                    </h1>
                 </div>
             </Link>
             <div className="flex flex-col gap-y-2 flex-1">
