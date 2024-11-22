@@ -29,7 +29,8 @@ export const Sidebar = ({ className }: Props) => {
                         alt="Mascot"
                     />
                     <h1 className="text-2xl font-bold text-green-600 tracking-wide">
-MOMO                    </h1>
+EduQuest
+                    </h1>
                 </div>
             </Link>
             <div className="flex flex-col gap-y-2 flex-1">
