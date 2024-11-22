@@ -42,7 +42,7 @@ export const getUserProgress = cache(async () => {
             activeCourse: true,
         },
     });
-    consol.log (data);
+    consol.log(data);
     return data;
 });
 
